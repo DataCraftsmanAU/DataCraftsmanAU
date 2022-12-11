@@ -1,4 +1,6 @@
-### Hi there 👋 My Name is Michael Jennings, I am an Australian Software Engineer. Welcome to my Github.
+### Hi there 👋 
+
+My Name is Michael Jennings, I am an Australian Software Engineer.
 
 <!--
 **MichaelJenningsAI/MichaelJenningsAI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
