@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![MichaelJenningsAI's GitHub stats](https://github-readme-stats.vercel.app/api?username=MichaelJenningsAI)](https://github.com/MichaelJenningsAI/github-readme-stats)
+[![MichaelJenningsAI's GitHub stats](https://github-readme-stats.vercel.app/api?username=MichaelJenningsAI&show_icons=true&theme=radical)](https://github.com/MichaelJenningsAI/github-readme-stats)
 
 🔭 I’m currently working on the Advent of Code 2022!
 🌱 I’m currently learning Data Engineering in my free time and Software Engineering at University.
