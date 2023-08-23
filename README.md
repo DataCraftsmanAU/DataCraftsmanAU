@@ -1,6 +1,6 @@
 ### Hi there 👋 
 
-My Name is Michael Jennings, I am an Australian Software Engineer.
+My Name is Michael Jennings, I am an Australian Data Engineer.
 
 <!--
 **MichaelJenningsAI/MichaelJenningsAI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,12 +13,11 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
 
 [![MichaelJenningsAI's GitHub stats](https://github-readme-stats.vercel.app/api?username=MichaelJenningsAI&show_icons=true&theme=dark)](https://github.com/MichaelJenningsAI/github-readme-stats)
 
-🔭 I’m currently working on the Advent of Code 2022!
+🔭 I’m currently working on a Data Analytics Framework, a website and some crpytograpy for uni.
 
-🌱 I’m currently learning Data Engineering in my free time and Software Engineering at University.
+🌱 I’m currently learning Software Engineering at University.
