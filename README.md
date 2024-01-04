@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![MichaelJenningsAI's GitHub stats](https://github-readme-stats.vercel.app/api?username=MichaelJenningsAI&show_icons=true&theme=dark)](https://github.com/MichaelJenningsAI/github-readme-stats)
+[![MichaelJenningsAI's GitHub stats](https://github-readme-stats.vercel.app/api?username=DataCraftsmanAU&show_icons=true&theme=dark)](https://github.com/DataCraftsmanAU/github-readme-stats)
 
 🔭 I’m currently working on a Data Analytics Framework, a website and some crpytograpy for uni.
 
