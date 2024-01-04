@@ -1,6 +1,6 @@
 ### Hi there 👋 
 
-My Name is Michael Jennings, I am an Australian Data Engineer.
+My Name is Michael Jennings, I am an Australian Data Solution Architect.
 
 <!--
 **MichaelJenningsAI/MichaelJenningsAI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,3 +21,7 @@ Here are some ideas to get you started:
 🔭 I’m currently working on a Data Analytics Framework, a website and some crpytograpy for uni.
 
 🌱 I’m currently learning Software Engineering at University.
+
+💬 Ask me about how Data Crafstman can help with your business data solutions.
+
+📫 How to reach me: michael.jennings@datacraftsman.com.au
