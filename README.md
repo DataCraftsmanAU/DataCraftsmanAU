@@ -1,27 +1,13 @@
 ### Hi there 👋 
 
-My Name is Michael Jennings, I am an Australian Data Solution Architect.
-
-<!--
-**MichaelJenningsAI/MichaelJenningsAI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
--->
+My Name is Michael Jennings. I am an Australian Data Solution Architect.
 
 [![MichaelJenningsAI's GitHub stats](https://github-readme-stats.vercel.app/api?username=DataCraftsmanAU&show_icons=true&theme=dark)](https://github.com/DataCraftsmanAU/github-readme-stats)
 
-🔭 I’m currently working on a Data Analytics Framework, a website and some crpytograpy for uni.
+🔭 I’m working on building the business Data Craftsman. Developing an end to end web scrape to data analytics for jobs from seek.com.au. 
 
-🌱 I’m currently learning Software Engineering at University.
+🌱 Currently studying Software Engineering at University. Also learning Azure Cloud.
 
-💬 Ask me about how Data Crafstman can help with your business data solutions.
+💬 Ask me about how Data Craftsman can help with your business data solutions.
 
 📫 How to reach me: michael.jennings@datacraftsman.com.au
